@@ -1,4 +1,4 @@
-## Towards a Densing Law for User Representation Learning at Billion-Scale Capacity
+# Towards a Densing Law for User Representation Learning at Billion-Scale Capacity
 
 [![Paper](https://img.shields.io/badge/arXiv-2602.14492-b31b1b.svg)](https://arxiv.org/abs/2608.23392)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Densing--Law-orange.svg)](https://huggingface.co/papers/2608.23392)
