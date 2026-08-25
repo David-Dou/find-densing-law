@@ -11,7 +11,7 @@ User representation learning in real-world industrial scenarios is commonly scal
 ![teaser](teaser_techreport.png "densing_law_teaser")
 
 ---
-## Densing Law
+## User Behavioral Densing Law
 
 Extensive experiments across diverse data sources, tokenization methods, and downstream tasks demonstrate the generalizability and reliability of the **User Behavioral Densing Law**, providing practical guidance for tokenization configuration selection in large-scale user representation learning. 
 
